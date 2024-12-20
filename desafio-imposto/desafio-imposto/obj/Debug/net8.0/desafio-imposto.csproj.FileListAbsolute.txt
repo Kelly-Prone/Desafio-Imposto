@@ -1,0 +1,14 @@
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\bin\Debug\net8.0\desafio-imposto.exe
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\bin\Debug\net8.0\desafio-imposto.deps.json
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\bin\Debug\net8.0\desafio-imposto.runtimeconfig.json
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\bin\Debug\net8.0\desafio-imposto.dll
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\bin\Debug\net8.0\desafio-imposto.pdb
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\obj\Debug\net8.0\desafio-imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\obj\Debug\net8.0\desafio-imposto.AssemblyInfoInputs.cache
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\obj\Debug\net8.0\desafio-imposto.AssemblyInfo.cs
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\obj\Debug\net8.0\desafio-imposto.csproj.CoreCompileInputs.cache
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\obj\Debug\net8.0\desafio-imposto.dll
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\obj\Debug\net8.0\refint\desafio-imposto.dll
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\obj\Debug\net8.0\desafio-imposto.pdb
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\obj\Debug\net8.0\desafio-imposto.genruntimeconfig.cache
+C:\Users\kelly\OneDrive\Área de Trabalho\Dev Superior\C# e Programação OO\Projetos\desafio-imposto\desafio-imposto\obj\Debug\net8.0\ref\desafio-imposto.dll
